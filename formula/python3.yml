@@ -1,0 +1,5 @@
+summary: python3 runtime
+webpage: https://www.python.org/
+version: 3.11.11
+bin-url: https://github.com/leleliu008/python-distribution/releases/download/3.11.11/python-3.11.11-openbsd-7.5-amd64.tar.xz
+bin-sha: ebb2ca5883f1d778c6d375b381e3d0a85ac4b8e45e27f50514d618c0fc9be880
