@@ -1,0 +1,5 @@
+summary: Maintained ctags implementation
+webpage: https://ctags.io/
+version: 2025.07.25 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.5-amd64/releases/download/2025.07.25/uctags-2025.07.25-openbsd-7.5-amd64.release.tar.xz 
+bin-sha: da58546d7af2c09809bd6082e6e81a067fb91e8eaff24a03fc6465361d82e828

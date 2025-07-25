@@ -1,0 +1,5 @@
+summary: Utility for directing compilation
+webpage: https://www.gnu.org/software/make
+version: 4.4.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.5-amd64/releases/download/2025.07.25/gmake-4.4.1-openbsd-7.5-amd64.release.tar.xz 
+bin-sha: 85fbc06c1a2dd9eddbdb7da1877c061c1fe35e897ea1edfee73a35584c733308

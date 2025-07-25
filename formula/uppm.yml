@@ -1,0 +1,5 @@
+summary: Universal Prebuild Package Manager
+webpage: https://github.com/leleliu008/uppm
+version: 0.17.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.5-amd64/releases/download/2025.07.25/uppm-0.17.0-openbsd-7.5-amd64.release.tar.xz 
+bin-sha: 5256bfe2ad04a094b3855f3c20882b2dd3585fc0cf9c29d7fac5c0ea4498d0a8

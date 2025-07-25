@@ -1,0 +1,5 @@
+summary: Reimplementation of pkg-config
+webpage: http://pkgconf.org
+version: 2.3.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.5-amd64/releases/download/2025.07.25/pkgconf-2.3.0-openbsd-7.5-amd64.release.tar.xz 
+bin-sha: 5882424fa4bcfb3e82ad000e7201a9610dce207358c0cbe947d93a1f4ad3681a

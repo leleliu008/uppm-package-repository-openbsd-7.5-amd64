@@ -1,0 +1,5 @@
+summary: Collection of GNU find, xargs, and locate
+webpage: https://www.gnu.org/software/findutils
+version: 4.9.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.5-amd64/releases/download/2025.07.25/findutils-4.9.0-openbsd-7.5-amd64.release.tar.xz 
+bin-sha: bd711231d791968e2280615252b79cd13aa840017b56b9390b689e40bff7a693

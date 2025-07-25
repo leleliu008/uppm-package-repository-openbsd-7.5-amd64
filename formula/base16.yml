@@ -1,0 +1,5 @@
+summary: base16 encoder and decoder
+webpage: https://github.com/leleliu008/C-examples
+version: 2025.07.25 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.5-amd64/releases/download/2025.07.25/base16-2025.07.25-openbsd-7.5-amd64.release.tar.xz 
+bin-sha: d00d7a226d2cec1c27524491fd55e6ce67fd3437aa590653b7d7b16ac9f48ae1
